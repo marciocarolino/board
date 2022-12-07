@@ -22,13 +22,6 @@ export default function Home() {
         <div className={styles.donaters}>
           <picture>
             <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            <img src="imagens/logado.png" alt="Foto dos apoiadores" />
-            
           </picture>
         </div>
       </main>
